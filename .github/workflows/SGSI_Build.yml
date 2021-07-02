@@ -7,11 +7,11 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://bigota.d.miui.com/V9.2.3.0.LXACNEK/miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip'
+  ROM_URL: https://bigota.d.miui.com/V9.2.3.0.LXACNEK/miui_MI2_V9.2.3.0.LXACNEK_68e064332d_5.0.zip''
   ZIP_NAME: 'MIUI.zip'
   OS_TYPE: 'Generic'
-  BUILD_TYPE: 'ab'
-  REPACK_NAME: 'MIUI9.zip'
+  BUILD_TYPE: 'a'
+  REPACK_NAME: 'MIUI.zip'
   VERSION: '12'
   upload_action-gh-release: 'true'
   SETUP: 'true'
