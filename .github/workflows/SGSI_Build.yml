@@ -7,8 +7,8 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
+  ROM_URL: 'https://58-49-70-1.ksyungslb.com/bigota.d.miui.com/9.4.2/miui_HM4A_9.4.2_7f3bec0983_6.0.zip?ksy_gslb_referer=https%3A%2F%2Fxiaomirom.com%2Fdownload%2Fredmi-4a-rolex-weekly-9.4.2%2F'
+  ZIP_NAME: 'MIUI.zip'
   OS_TYPE: 'Generic'
   BUILD_TYPE: 'ab'
   REPACK_NAME: 'SGSI.zip'
